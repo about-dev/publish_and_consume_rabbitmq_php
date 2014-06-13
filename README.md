@@ -18,6 +18,7 @@ Browser:
 	http://localhost/workers/consumer.php
 
 CLI:
+
 	/var/www/workers/>>>php publisher.php
 
 	/var/www/workers/>>>php consumer.php
