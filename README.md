@@ -11,6 +11,7 @@ You have to install RabbitMQ [Installation][1] and the PHP AMQP library [Install
 [2]:  http://pecl.php.net/package/amqp
 
 2) Using the demo files (assume we saved the files into a folder named `workers`)
+
 Browser: 
 
 	http://localhost/workers/publisher.php
